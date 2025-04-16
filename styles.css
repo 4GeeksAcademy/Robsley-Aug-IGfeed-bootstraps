@@ -1,0 +1,26 @@
+* {
+    font-family:"Roboto", sans-serif;
+}
+.post {
+    border-color: rgb(124, 124, 124);
+    border-style: solid;
+    width: 50%;
+    margin: auto;
+}
+.post-header {
+    width: 100%;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+.post-body {
+    padding-left: 20px;
+    padding-top: 2.5%;
+    padding-right: 20px;
+}
+.fa-heart,
+.fa-comment,
+.fa-paper-plane,
+.fa-bookmark
+{
+    padding: 10px;
+}
